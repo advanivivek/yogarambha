@@ -41,13 +41,17 @@
       }
     ],
     "uniqCompNum": 2,
-    "versionPublish": "4.8.1"
+    "versionPublish": "4.8.1",
+    "favicon": "@PROJECT_PATH@/assets/images/va-122x122.png",
+    "noImageResize": "",
+    "google-analytics": "",
+    "siteUrl": "undefined"
   },
   "pages": {
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
+        "title": "Yogarambha Designed by Vivek Advani",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
